@@ -1,5 +1,5 @@
 # doodleNet
 
-Trained on all 345 classes from quickdraw dataset, 4000 for each class
+A doodle classifier(CNN), trained on all 345 categories from Quickdraw dataset.
 
 Acurary 83%
