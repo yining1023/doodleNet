@@ -6,6 +6,8 @@ See a live demo [here](https://yining1023.github.io/doodleNet/demo)
 
 Test accuarcy: 87.20%
 
+<img src="https://raw.githubusercontent.com/yining1023/doodleNet/master/demo/doodleNet.gif">
+
 Model Summary
 Layer (type)                 Output Shape              Param #   
 =================================================================
