@@ -9,6 +9,7 @@ Test accuarcy: 87.20%
 <img src="https://raw.githubusercontent.com/yining1023/doodleNet/master/demo/doodleNet.gif">
 
 Model Summary
+```
 Layer (type)                 Output Shape              Param #   
 =================================================================
 conv2d (Conv2D)              (None, 28, 28, 16)        160       
@@ -42,3 +43,4 @@ Trainable params: 544,201
 Non-trainable params: 0
 _________________________________________________________________
 None
+```
