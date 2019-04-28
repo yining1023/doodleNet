@@ -34,7 +34,7 @@ Based on the previous doodle classifier of 345 classes, I added KNN classifier t
 
 <img src="https://raw.githubusercontent.com/yining1023/doodleNet/master/images/doodleNet_knn.gif">
 
-Try a live demo [here](https://yining1023.github.io/doodleNet/demo/DoodleClassifier_345).
+Try a live demo [here](https://yining1023.github.io/doodleNet/demo/DoodleClassifier_KNN).
 
 You can draw 10+ circles and add them to class A, and draw 10+ lines and add them to class B, then let the model to guess your new drawing. You can define any other classes, it doesn't need to be circles or lines.
 
