@@ -1,6 +1,6 @@
 # doodleNet
 
-A doodle classifier(CNN), trained on all 345 categories from Quickdraw dataset, 10000 images per class.
+A doodle classifier(CNN), trained on all 345 categories from Quickdraw dataset, 50000 images per class.
 
 See a live demo [here](https://yining1023.github.io/doodleNet/demo)
 
