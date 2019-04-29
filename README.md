@@ -19,7 +19,7 @@ Try a live demo [here](https://yining1023.github.io/doodleNet/demo/TrainDoodleCl
 Once you open the webpage, wait until the page load the data, train the model, evaluate the model. It will download two files: `myDoodleNet.json` and `myDoodleNet.weights.bin`. To test this model your self, you can load these two files back, and click on 'load model' button, then draw sth on the canvas, hit 'Guess' button to let model start guessing the drawing.
 
 ## 2. Train a doodle classifier with 345 classes
-It's trained on all 345 categories from Quickdraw dataset, 50k images per class. It's trained with tensorflow, and ported to tf.js in the browser. Here is the training [collab notebook](https://github.com/yining1023/doodleNet/blob/master/doodleNet.ipynb).
+It's trained on all 345 categories from Quickdraw dataset, 50k images per class. It's trained with tensorflow, and ported to tf.js in the browser. Here is the training [notebook](https://github.com/yining1023/doodleNet/blob/master/doodleNet.ipynb).
 
 ***This notebook is heavily based on [@zaidalyafeai](https://github.com/zaidalyafeai)'s Sketcher [notebook](https://github.com/zaidalyafeai/Notebooks) on 100 classes.*** I expanded the data to 345 classes and added a few layers to improve the accurary on 345 classes.
 
