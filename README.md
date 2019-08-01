@@ -1,4 +1,4 @@
-# DoodleNet
+# DoodleNet 
 
 This is a series of experiments I did about Doodle Classifier(a Convolutional Neural Network) using tensorflow.js and tensorflow. The data I used is from [Quickdraw dataset](https://quickdraw.withgoogle.com/data).
 
