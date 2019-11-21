@@ -7,7 +7,7 @@ Here are a list of the projects -
 2. Train a doodle classifier with 345 classes
 3. KNN doodle classifier
 
-Checkout Machine Learning for the Web [Week 3](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-doodleclassifier) for more info and how does CNN and transfer learning work.
+## Credits: Big thanks to [@zaidalyafeai](https://github.com/zaidalyafeai)'s [sketcher](https://github.com/zaidalyafeai/zaidalyafeai.github.io/tree/master/sketcher) google colab for training.
 
 ## 1. Train a doodle classifier with tf.js
 I trained a doodle classifier with 3 classes(bowtie, lollipop, rainbow) in the browser using tfjs' [layers API](https://github.com/tensorflow/tfjs-layers) and [tf.js-vis](https://github.com/tensorflow/tfjs-vis). The code is based on [tf.js Example - Training MNIST](https://github.com/tensorflow/tfjs-examples/tree/master/mnist).
